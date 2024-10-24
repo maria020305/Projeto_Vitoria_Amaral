@@ -1,1 +1,2 @@
-# Projeto_Vitoria_Amaral
+Trabalho Prático Git 
+Engenharia de Software
